@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Senior Software Engineer**
 
-- 🌱 I’m currently learning **Flutter & Android Jetpack Components**
+- 🌱 I’m currently learning **Flutter & Android Jetpack Compose**
 
 - 👯 I’m looking to collaborate on **Open source and freelancing projects**
 
