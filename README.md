@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://imgur.com/a/5G1DY03" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Thulasi Rajan</h1>
 <h3 align="center">An Aspiring Android Developer from TN, India.</h3>
