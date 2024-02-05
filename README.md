@@ -5,15 +5,13 @@
 
 - 🔭 I’m currently working as **Senior Software Engineer**
 
-- 🌱 I’m currently learning **Flutter & Android Jetpack Compose**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 👯 I’m looking to collaborate on **Open source and freelancing projects**
 
 - 👨‍💻 All of my projects are available at [https://itsgenius.github.io/](https://itsgenius.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@thulcgenius](https://medium.com/@thulcgenius)
-
-- 💬 Ask me about **Android Development using Java & Kotlin**
+- 💬 Ask me about **Android Development using Java & Kotlin & Flutter app development**
 
 - 📫 How to reach me **thulcgenius@gmail.com**
 
