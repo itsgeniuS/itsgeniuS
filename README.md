@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Jetpack Compose & KMP<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for freelancing projects in Mobile application development<br>🌱 I’m currently learning Node.js<br>💬 Ask me about Native development in android and Hybrid app development using Flutter<br>⚡ Sometimes i write blogs on Medium
+🔭 I’m currently working on Jetpack Compose & KMP<br>
+👯 I’m looking to collaborate on Open source projects<br>
+🤝 I’m looking for freelancing projects in Mobile application development<br>
+🌱 I’m currently learning Node.js & Mongo DB<br>
+⚡ Sometimes i write blogs on [Medium](https://medium.com/@thulcgeniuS)
 
 
 # 💻 Tech Stack:
@@ -7,16 +11,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=itsgeniuS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsgeniuS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsgeniuS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itsgeniuS&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itsgeniuS&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itsgeniuS&icon=0&color=0)](https://visitcount.itsvg.in)
