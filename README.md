@@ -53,9 +53,6 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=itsgeniuS&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-    </td>
-    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsgeniuS&theme=dark&hide_border=false" />
     </td>
   </tr>
